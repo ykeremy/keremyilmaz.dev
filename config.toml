@@ -1,15 +1,15 @@
 baseURL = "https://keremyilmaz.dev"
 languageCode = "en-us"
-title = "Archie"
+title = "Kerem Yilmaz"
 theme="archie"
-copyright = "© Athul"
+copyright = "© Kerem Yilmaz"
 pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 [params]
 	mode="toggle"
 	useCDN=false
-	subtitle = "Minimal and Clean [blog theme for Hugo](https://github.com/athul/archie)"
+	subtitle = "Software Engineer & Tech Enthusiast"
 	
 	# Custom CSS
 	customcss = ["css/intro.css"]
@@ -17,23 +17,18 @@ pygmentscodefencesguesssyntax = true
 	# Intro section
 	showIntro = true
 	introPhoto = "/profile.jpg"
-	introTitle = "Hi, I'm [Your Name]"
-	introText = "Welcome to my personal website. I'm a [your role/profession] passionate about [your interests]. Here you'll find my thoughts, projects, and experiences."
+	introTitle = "Hi, I'm Kerem Yilmaz"
+	introText = "Welcome to my personal website. I'm a software engineer passionate about technology, open source, and building great products. Here you'll find my thoughts, projects, and experiences."
 
 [[params.social]]
 name = "GitHub"
 icon = "github"
-url = "https://github.com/athul/archie"
+url = "https://github.com/ykeremy"
 
 [[params.social]]
-name = "Twitter"
-icon = "twitter"
-url = "https://twitter.com/athulcajay/"
-
-[[params.social]]
-name = "GitLab"
-icon = "gitlab"
-url = "https://gitlab.com/athul/"
+name = "LinkedIn"
+icon = "linkedin"
+url = "https://linkedin.com/in/ykeremy"
 
 [[menu.main]]
 name = "Home"
